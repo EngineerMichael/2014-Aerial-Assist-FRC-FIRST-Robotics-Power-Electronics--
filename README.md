@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/10e91864-fe47-48b0-8009-543a6d67d577)
 
 
-This repository contains documentation and resources related to the power electronics setup for the 2014 FIRST Robotics Competition (FRC) robot built during a high school senior year. The focus of the project was on wiring a Power Distribution Panel (PDP) and integrating DC motors, relays, and solenoids to control the robot’s movements and actuators.
+This repository contains documentation and resources related to the power electronics setup for the 2014 FIRST Robotics Competition (FRC) robot built during my high school senior year. The focus of the project was on wiring a Power Distribution Panel (PDP) and integrating DC motors, relays, and solenoids to control the robot’s movements and actuators.
 
 
 
